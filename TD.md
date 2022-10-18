@@ -68,19 +68,19 @@
 
 Диаграмма активностей
 
-![](images/[OAIB] Root Operational Activity.jpg)
+![](images/Root Operational Activity.jpg)
 
 Диаграмма аллокации по сущностям
 
-![](images/[OAB] Operational Entities.jpg)
+![](images/Operational Entities.jpg)
 
 Диаграмма обмена данными при уже имеющейся регистрации
 
-![](images/[OES] уже зарегистрирован.jpg)
+![](images/уже зарегистрирован.jpg)
 
 Диаграмма обмена данными при успешной регистрации или отказе
 
-![](images/[OES] регистрация и отказ.jpg)
+![](images/регистрация и отказ.jpg)
 
 # Алгоритм
 
